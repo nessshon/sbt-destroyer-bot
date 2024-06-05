@@ -1,0 +1,8 @@
+aiogram>=3.4.1
+aiogram-tonconnect==0.13.9
+cachetools>=5.3.2
+environs==10.3.0
+pydantic>=2.5.0
+pytonapi==0.3.1
+pytoniq_core==0.1.36
+redis>=5.0.2
