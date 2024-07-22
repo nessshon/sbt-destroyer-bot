@@ -1,5 +1,5 @@
 aiogram>=3.4.1
-aiogram-tonconnect==0.13.9
+aiogram-tonconnect==0.14.1
 cachetools>=5.3.2
 environs==10.3.0
 pydantic>=2.5.0
